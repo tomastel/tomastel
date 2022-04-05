@@ -2,7 +2,7 @@
 <h3 align="center">Automation and Robotics Engineer student at NTNU, Trondheim🌟</h3>
 
 <br>
-<p><img align="right" src="https://tenor.com/view/hi-robot-gif-18871668.gif" /></p>
+<p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
 
 - 🌱 I’m currently learning C++ and Git
 
