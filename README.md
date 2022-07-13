@@ -4,7 +4,7 @@
 <br>
 <p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
 
-- 🌱 I’m currently learning C and Git
+- 🌱 Intern/Product Developer at Bryte Batteries, where I am developing my skills in C, system integration, control systems and Git
 
 - 🤔 Curious about all applications of programming, system understanding and robotics
 
