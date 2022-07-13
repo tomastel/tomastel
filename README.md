@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tomas Tellier</h1>
-<h3 align="center">Automation and Robotics Engineer student at NTNU, Trondheim🌟</h3>
+<h3 align="center">MSc Cybernetics and Robotics student at NTNU, Trondheim🌟</h3>
 
 <br>
 <p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
 
-- 🌱 I’m currently learning C++ and Git
+- 🌱 I’m currently learning C and Git
 
-- 🤔 Curious about all applications of programming, AI and robotics
+- 🤔 Curious about all applications of programming, system understanding and robotics
 
 - 📫 Reach me at: **tomasnt@stud.ntnu.no**
 <br>
@@ -24,6 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> 
