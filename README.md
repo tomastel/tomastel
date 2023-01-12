@@ -4,7 +4,7 @@
 <br>
 <p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
 
-- 🌱 Product Developer at Bryte Batteries, where I am developing my skills in software development , system integration and control systems
+- 🌱 Product Developer at Bryte Batteries, where I am developing my skills in software engineering, system integration and control systems
 
 - 🤔 Curious about all applications of programming, system understanding, control and robotics
 
