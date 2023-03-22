@@ -48,6 +48,9 @@
   <a href="https://www.raspberrypi.org/">
     <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg"
          alt="raspberrypi" width="40" height="40" /> </a>
+  <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+      alt="arduino-c" width="40" height="40" /> </a>
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/English_language">
