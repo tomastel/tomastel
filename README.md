@@ -52,8 +52,7 @@
   <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
       alt="arduino-c" width="40" height="40" /> </a>
-  <br>
-  <br>
+  </br> </br>
   <a href="https://en.wikipedia.org/wiki/English_language">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Square_Flag_of_the_United_Kingdom.svg"
          alt="english" width="45" height="45" /> </a> &nbsp;
