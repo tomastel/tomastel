@@ -66,6 +66,7 @@
 <h3 align="left">Other Tools:</h3>
 <p align="left">
   <ul>
+    <li>AVR</li>
     <li>PLC-programming</li>
     <li>CAD</li>
     <li>Arduino (Arduino-C)</li>
