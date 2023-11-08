@@ -4,9 +4,9 @@
 <br>
 <p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
 
-- 🌱 Product Developer at Bryte Batteries, where I am developing my skills in software engineering, system integration and control systems
+- 🌱 Former Product Developer at Bryte Batteries, where I was able to develop my skills in software engineering, system integration and control systems
 
-- 🤔 Curious about all applications of programming, system understanding, control and robotics
+- 🤔 Curious about control, robotics, AI and data science
 
 - 📫 Reach me at: **tomasnt@stud.ntnu.no**
 <br>
