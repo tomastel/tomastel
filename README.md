@@ -43,18 +43,18 @@
   <a href="https://www.tensorflow.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
          alt="tensorflow" width="40" height="40" /> </a>
-  <a href="https://www.latex-project.org/">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/latex-logo-vector.svg"
-         alt="latex" width="40" height="40" /> </a>
   <a href="https://www.raspberrypi.org/">
     <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg"
          alt="raspberrypi" width="40" height="40" /> </a>
-  <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-      alt="arduino-c" width="40" height="40" /> </a>
-  </br> </br>
+  <a href="https://www.opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
+         alt="opencv" width="40" height="40" /> </a> 
+  <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ros-infrastructure/artwork/blob/master/ros_logo.svg"
+         alt="ROS2" width="80" height="40" /> </a> 
+  </br> </br> </br>
   <a href="https://en.wikipedia.org/wiki/English_language">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Square_Flag_of_the_United_Kingdom.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_the_United_Kingdom_Square.svg"
          alt="english" width="45" height="45" /> </a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/French_language">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_colors_of_France_-Template.svg"
