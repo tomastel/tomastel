@@ -6,7 +6,7 @@
 
 - 🌱 Former Product Developer at Bryte Batteries, where I was able to develop my skills in software engineering, system integration and control systems
 
-- 🤔 Curious about control, robotics, AI and data science
+- 🤔 Curious about data science
 
 - 📫 Reach me at: **tomasnt@stud.ntnu.no**
 <br>
