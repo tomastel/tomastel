@@ -51,7 +51,11 @@
          alt="opencv" width="40" height="40" /> </a> 
   <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
     <img src="https://github.com/ros-infrastructure/artwork/blob/master/ros_logo.svg"
-         alt="ROS2" width="80" height="40" /> </a> 
+         alt="ROS2" width="80" height="40" /> </a>
+  </br>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
+      alt="MSPowerBI" width="40" height="40" /> </a>
   </br> </br> </br>
   <a href="https://en.wikipedia.org/wiki/English_language">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_the_United_Kingdom_Square.svg"
