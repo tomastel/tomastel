@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Tomas Tellier</h1>
-<h3 align="center">MSc Cybernetics and Robotics student at NTNU, Trondheim🌟</h3>
+<h1 align="center">Hi 👋 &nbsp I'm Tomas</h1>
+<h3 align="center">MSc Cybernetics and Robotics, NTNU 🌟</h3>
 
 <br>
 <p><img align="right" src="https://github.com/tomastel/tomastel/blob/main/hi-robot.gif" /></p>
+
+- 👨‍💻 Data Engineer at Sopra Steria, building data platforms, pipelines and products for advanced data analysis
 
 - 🌱 Former Product Developer at Bryte Batteries, where I was able to develop my skills in software engineering, system integration and control systems
 
 - 🤔 Curious about data science
 
-- 📫 Reach me at: **tomasnt@stud.ntnu.no**
+- 📫 Reach me at: **tomas.tellier@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tomas-tellier/" target="blank"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tomtel/" target="blank"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
-  </a>
-</p>
-<br>
+
+<a href="https://www.linkedin.com/in/tomas-tellier/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" align="left" />
+</a>
+<a href="https://instagram.com/tomtel/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" align="left" />
+</a>
+
+<br> <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
